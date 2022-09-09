@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Ajibola77
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ajibola77/Ajibola77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Ajibola Osineye. 
+I'm a still life, nature and film photographer
+I take shoot of people as well
+I'm an actor and director
+To contact me for your service;
+Number 08101252854
+Email ajibolaosineye0@gmail.com 
